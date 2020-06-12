@@ -1,6 +1,15 @@
+# COVID-19 Tracker
+![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
+
 ## Observations
 
 This application is based on https://github.com/adrianhajdin/project_corona_tracker.
+
+## Introduction
+
+This is a code repository for the corresponding video tutorial. 
+
+API used: https://covid19.mathdro.id/api
 
 ## 📥  Installation 
 
